@@ -89,7 +89,4 @@ WHERE ID_JOGADOR = 1;
 
 DELETE FROM JOGADORES
 WHERE ID_JOGADOR = 8;
-
-
-							
 							
